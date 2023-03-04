@@ -1,0 +1,59 @@
+	
+	-------------	3 projects (7h 45 min)	 -------------
+
+	1.	Face detection: Opencv, Happiness detector :: (2h 30 min)
+
+			Intution: 1h 10 min
+
+				Plan of attack 
+				Viola-Jones Algorithm 
+				Haar-like Features
+				Integral Image 
+				Training Classifiers 
+				Adaptive Boosting (Adaboost) 
+				Cascading
+
+			Application: 58 min
+
+				Intro
+				Installation
+				Implementation 
+			
+			Homework: Happiness detector: 19 min
+
+
+
+	2.	Object detection: SSD, Horse galoping :: (2h 30 min)
+
+			Intution: 45 min
+
+				Plan of attack
+				How SSD is different
+				The Multi-Box Concept
+				Predicting Object Positions
+				The Scale Problem
+
+			Application: 1h 34 min
+
+				Intro
+				Installation
+				Implementation 
+
+			Homework: Horse galoping: 10 min
+
+
+		
+	3.	Image Creation: GANs, Horse galoping :: (2h 45 min)
+
+			Intution: 45 min
+
+				Plan of Attack
+				The Idea Behind GANs
+				How Do GANs Work (Step 1, 2, 3)
+				Applications of GANs
+			
+			Application: 2h
+
+				Intro
+				Installation
+				Implementation 
