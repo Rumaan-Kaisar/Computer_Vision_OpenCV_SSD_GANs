@@ -389,3 +389,27 @@ conda install win-unicode-console==0.5
 '''
 
 # python filter_dependencies.py
+
+# conda install ffmpeg==3.2.4
+# conda install freetype==2.7
+# conda install imageio==2.2.0
+# conda install libtiff==4.0.6
+# conda install olefile==0.44
+# conda install pillow==4.2.1
+# conda install html5lib==0.9999999
+# conda install mkl==2017.0.3
+# conda install path.py==10.3.1
+# conda install singledispatch==3.4.0.3
+# conda install sphinxcontrib==1.0
+# conda install sphinxcontrib-websupport==1.0.1
+# conda install opencv3==3.1.0
+# conda install pytorch==0.1.12
+# conda install ipython-genutils==0.2.0
+# pip install jupyter-client==5.1.0
+# pip install jupyter-core==4.3.0
+# pip install prompt-toolkit==1.0.15
+# pip install pyyaml==3.12
+# pip install rope-py3k==0.9.4.post1
+# pip install torch==0.1.12
+# pip install torchvision==0.1.9
+# pip install win-unicode-console==0.5
