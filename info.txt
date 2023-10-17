@@ -24,6 +24,7 @@
 
 
 	2.	Object detection: SSD, Horse galoping :: (2h 30 min)
+		https://www.dropbox.com/s/gwi9fe3jtj3bx3t/Training_SSD.zip?dl=0
 
 			Intution: 45 min
 
@@ -43,7 +44,7 @@
 
 
 		
-	3.	Image Creation: GANs, Horse galoping :: (2h 45 min)
+	3.	Image Creation: GANs :: (2h 45 min)
 
 			Intution: 45 min
 
@@ -54,6 +55,19 @@
 			
 			Application: 2h
 
-				Intro
-				Installation
-				Implementation 
+				Import Libraries
+				Generator Definition
+				Forward function for Generator
+				Generator Object
+
+				Discriminator Definition
+				Forward function for Discriminator 
+				Discriminator Object
+
+				Training intro
+				Train Discriminator (update weights)
+				Calculate The Error
+				Train Generator (update weights)
+				Printing losses and Real Images
+
+
